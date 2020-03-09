@@ -343,7 +343,7 @@
     iterall "^1.2.2"
     tslib "^1.9.3"
 
-"@nexus/typescript-language-service@^0.1.0-next.3":
+"@nexus/typescript-language-service@0.1.0-next.3":
   version "0.1.0-next.3"
   resolved "https://registry.yarnpkg.com/@nexus/typescript-language-service/-/typescript-language-service-0.1.0-next.3.tgz#629dea64d02fdec8ad3a4b51d5c53e23421909fb"
   integrity sha512-3NCfqo0CuqW+kBj7/n6sLXCOc4OKE0yk4AJ5kTm659hCw60l96iRrlM4dxahRGVVWHxSv5PbxMp0Fhzd2Z1h9Q==
@@ -726,7 +726,7 @@
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@^25.1.0":
+"@types/jest@25.1.0":
   version "25.1.0"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-25.1.0.tgz#b3955aa0be6057c65c0bfb11ac2ef1e078598d76"
   integrity sha512-MYX8LpNQboef1NDZQTchM5poL8WITRVG/4/1XLK/Xsamjptsvgb8ELTRoXixBARi+a81mMT4n2hooqaydEOE9A==
@@ -3192,7 +3192,7 @@ jest-worker@^25.1.0:
     merge-stream "^2.0.0"
     supports-color "^7.0.0"
 
-jest@^25.1.0:
+jest@25.1.0:
   version "25.1.0"
   resolved "https://registry.yarnpkg.com/jest/-/jest-25.1.0.tgz#b85ef1ddba2fdb00d295deebbd13567106d35be9"
   integrity sha512-FV6jEruneBhokkt9MQk0WUFoNTwnF76CLXtwNMfsc0um0TlB/LG2yxUd0KqaFjEJ9laQmVWQWS0sG/t2GsuI0w==
@@ -3717,7 +3717,7 @@ negotiator@0.6.2:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
   integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
 
-nexus-future@^0.5.1-next.1:
+nexus-future@0.5.1-next.3:
   version "0.5.1-next.3"
   resolved "https://registry.yarnpkg.com/nexus-future/-/nexus-future-0.5.1-next.3.tgz#9192847d4cdcb2f9b56c9ff64e3d80e1504bd394"
   integrity sha512-oP+RuBbogcQhYpm+TxWaIiDVn+q5Z+SjUlVu+LmboiPhRvEkuYZ6B2V2Urc17Em3FJ33LzJEcX76ov8Adlb6Tw==
@@ -3750,7 +3750,7 @@ nexus-future@^0.5.1-next.1:
     tslib "^1"
     typescript "^3.7.2"
 
-nexus-plugin-prisma@^0.3.1:
+nexus-plugin-prisma@0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/nexus-plugin-prisma/-/nexus-plugin-prisma-0.3.1.tgz#ae5a1863e44bd75971cc78d50f50c5cda95adab7"
   integrity sha512-5TO3X1o2Oz9+7ipHwEG/GgZeaoO+c5RyWMwzjmTrx1kzJKEow/i9HYewAVqExUC8MZdEd6G9wDX4gVYQg2A2/A==
@@ -5284,7 +5284,7 @@ tree-kill@^1.2.1:
   resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
-ts-jest@^25.0.0:
+ts-jest@25.0.0:
   version "25.0.0"
   resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-25.0.0.tgz#d83b266e6ffda0c458a129951b3fe3567f8ce8df"
   integrity sha512-F+hZg3j7XYOFpXJteXb4lnqy7vQzTmpTmX7AJT6pvSGeZejyXj1Lk0ArpnrEPOpv6Zu/NugHc5W7FINngC9WZQ==
